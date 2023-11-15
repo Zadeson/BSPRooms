@@ -1,6 +1,6 @@
 # Binary Space Partitioning (BSP) Room Generator
 
-![Generated Example](/BSP.png)
+![Generated Example](/BSP.PNG)
 
 This Python script generates random rooms with doors and objects using Binary Space Partitioning (BSP) algorithm.
 
